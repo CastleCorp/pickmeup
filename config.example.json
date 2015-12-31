@@ -1,0 +1,9 @@
+{
+  "config":
+    {
+      "TWILIO_ACCOUNT_SID": "Your_SID",
+      "TWILIO_AUTH_TOKEN": "Your_Token",
+      "TWILIO_ACCOUNT_NUMBER": "+12223334444",
+      "YOUR_NUMBER": "+19998887777"
+    }
+}
